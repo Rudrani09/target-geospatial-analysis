@@ -74,3 +74,12 @@ An interactive **Tableau dashboard** is used to visualize:
 ---
 
 ## 📂 Repository Structure
+├── Analysis_retail_1.ipynb # Jupyter Notebook (main analysis)
+├── Target datasets.csv # Raw Target store data
+├── county_population_2023.csv # U.S. Census population data
+├── median_income_by_county_2023.csv # U.S. Census income data
+├── target_store_level.csv # Cleaned store-level dataset
+├── county_level_summary.csv # County-level summary
+├── target_expansion_opportunities.csv # Identified high-potential counties
+├── README.md # Project overview and documentation
+└── .gitignore # Ignored files and logs
