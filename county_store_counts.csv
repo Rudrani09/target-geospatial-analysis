@@ -1,0 +1,620 @@
+County_State_Key,County,State,Store_Count
+Adams|Colorado,Adams,Colorado,3
+Ada|Idaho,Ada,Idaho,2
+Aiken|South Carolina,Aiken,South Carolina,1
+Alachua|Florida,Alachua,Florida,2
+Alamance|North Carolina,Alamance,North Carolina,1
+Alameda|California,Alameda,California,13
+Albany|New York,Albany,New York,2
+Albemarle|Virginia,Albemarle,Virginia,1
+Alexandria|Virginia,Alexandria,Virginia,1
+Allegheny|Pennsylvania,Allegheny,Pennsylvania,11
+Allen|Indiana,Allen,Indiana,3
+Anchorage|Alaska,Anchorage,Alaska,2
+Anderson|South Carolina,Anderson,South Carolina,1
+Angelina|Texas,Angelina,Texas,1
+Anne Arundel|Maryland,Anne Arundel,Maryland,5
+Anoka|Minnesota,Anoka,Minnesota,6
+Arapahoe|Colorado,Arapahoe,Colorado,8
+Arlington|Virginia,Arlington,Virginia,1
+Atlantic|New Jersey,Atlantic,New Jersey,1
+Baldwin|Alabama,Baldwin,Alabama,2
+Baltimore|Maryland,Baltimore,Maryland,7
+Barrow|Georgia,Barrow,Georgia,1
+Bartholomew|Indiana,Bartholomew,Indiana,1
+Bay|Florida,Bay,Florida,2
+Beaufort|South Carolina,Beaufort,South Carolina,1
+Beaver|Pennsylvania,Beaver,Pennsylvania,1
+Bell|Texas,Bell,Texas,2
+Beltrami|Minnesota,Beltrami,Minnesota,1
+Benton|Arkansas,Benton,Arkansas,1
+Benton|Minnesota,Benton,Minnesota,1
+Benton|Washington,Benton,Washington,2
+Bergen|New Jersey,Bergen,New Jersey,4
+Berkeley|South Carolina,Berkeley,South Carolina,1
+Berkeley|West Virginia,Berkeley,West Virginia,1
+Berkshire|Massachusetts,Berkshire,Massachusetts,1
+Berks|Pennsylvania,Berks,Pennsylvania,3
+Bernalillo|New Mexico,Bernalillo,New Mexico,5
+Bexar|Texas,Bexar,Texas,13
+Black Hawk|Iowa,Black Hawk,Iowa,2
+Blair|Pennsylvania,Blair,Pennsylvania,1
+Blount|Tennessee,Blount,Tennessee,1
+Blue Earth|Minnesota,Blue Earth,Minnesota,1
+Bonneville|Idaho,Bonneville,Idaho,1
+Boone|Kentucky,Boone,Kentucky,1
+Boone|Missouri,Boone,Missouri,1
+Bossier|Louisiana,Bossier,Louisiana,1
+Boulder|Colorado,Boulder,Colorado,3
+Bowie|Texas,Bowie,Texas,1
+Bradley|Tennessee,Bradley,Tennessee,1
+Brazoria|Texas,Brazoria,Texas,2
+Brazos|Texas,Brazos,Texas,2
+Brevard|Florida,Brevard,Florida,5
+Bristol|Massachusetts,Bristol,Massachusetts,6
+Bronx|New York,Bronx,New York,3
+Broome|New York,Broome,New York,1
+Broward|Florida,Broward,Florida,11
+Brown|South Dakota,Brown,South Dakota,1
+Brown|Wisconsin,Brown,Wisconsin,2
+Buchanan|Missouri,Buchanan,Missouri,1
+Bucks|Pennsylvania,Bucks,Pennsylvania,4
+Buffalo|Nebraska,Buffalo,Nebraska,1
+Buncombe|North Carolina,Buncombe,North Carolina,2
+Burleigh|North Dakota,Burleigh,North Dakota,1
+Burlington|New Jersey,Burlington,New Jersey,4
+Butler|Ohio,Butler,Ohio,2
+Butler|Pennsylvania,Butler,Pennsylvania,2
+Butte|California,Butte,California,1
+Cabarrus|North Carolina,Cabarrus,North Carolina,1
+Cabell|West Virginia,Cabell,West Virginia,1
+Caddo|Louisiana,Caddo,Louisiana,1
+Calcasieu|Louisiana,Calcasieu,Louisiana,1
+Calhoun|Michigan,Calhoun,Michigan,1
+Camden|New Jersey,Camden,New Jersey,3
+Cameron|Texas,Cameron,Texas,2
+Campbell|Kentucky,Campbell,Kentucky,1
+Canadian|Oklahoma,Canadian,Oklahoma,1
+Canyon|Idaho,Canyon,Idaho,1
+Cape Girardeau|Missouri,Cape Girardeau,Missouri,1
+Carroll|Maryland,Carroll,Maryland,1
+Carver|Minnesota,Carver,Minnesota,3
+Cascade|Montana,Cascade,Montana,1
+Cass|Missouri,Cass,Missouri,1
+Cass|North Dakota,Cass,North Dakota,1
+Catawba|North Carolina,Catawba,North Carolina,1
+Centre|Pennsylvania,Centre,Pennsylvania,2
+Cerro Gordo|Iowa,Cerro Gordo,Iowa,1
+Champaign|Illinois,Champaign,Illinois,1
+Charleston|South Carolina,Charleston,South Carolina,3
+Charles|Maryland,Charles,Maryland,2
+Charlotte|Florida,Charlotte,Florida,1
+Chatham|Georgia,Chatham,Georgia,2
+Chaves|New Mexico,Chaves,New Mexico,1
+Chelan|Washington,Chelan,Washington,1
+Chemung|New York,Chemung,New York,1
+Chesapeake|Virginia,Chesapeake,Virginia,3
+Cheshire|New Hampshire,Cheshire,New Hampshire,1
+Chesterfield|Virginia,Chesterfield,Virginia,4
+Chester|Pennsylvania,Chester,Pennsylvania,3
+Clackamas|Oregon,Clackamas,Oregon,1
+Clarke|Georgia,Clarke,Georgia,1
+Clark|Indiana,Clark,Indiana,1
+Clark|Nevada,Clark,Nevada,14
+Clark|Washington,Clark,Washington,3
+Clay|Florida,Clay,Florida,1
+Clay|Minnesota,Clay,Minnesota,1
+Clay|Missouri,Clay,Missouri,3
+Clermont|Ohio,Clermont,Ohio,1
+Cleveland|Oklahoma,Cleveland,Oklahoma,2
+Clinton|New York,Clinton,New York,1
+Cochise|Arizona,Cochise,Arizona,1
+Coconino|Arizona,Coconino,Arizona,1
+Codington|South Dakota,Codington,South Dakota,1
+Cole|Missouri,Cole,Missouri,1
+Collier|Florida,Collier,Florida,2
+Collin|Texas,Collin,Texas,8
+Colonial Heights|Virginia,Colonial Heights,Virginia,1
+Columbia|Georgia,Columbia,Georgia,1
+Comal|Texas,Comal,Texas,1
+Comanche|Oklahoma,Comanche,Oklahoma,1
+Contra Costa|California,Contra Costa,California,7
+Cook|Illinois,Cook,Illinois,44
+Cowlitz|Washington,Cowlitz,Washington,1
+Craighead|Arkansas,Craighead,Arkansas,1
+Craven|North Carolina,Craven,North Carolina,1
+Crow Wing|Minnesota,Crow Wing,Minnesota,1
+Culpeper|Virginia,Culpeper,Virginia,1
+Cumberland|Maine,Cumberland,Maine,1
+Cumberland|New Jersey,Cumberland,New Jersey,1
+Cumberland|North Carolina,Cumberland,North Carolina,1
+Cumberland|Pennsylvania,Cumberland,Pennsylvania,2
+Cuyahoga|Ohio,Cuyahoga,Ohio,8
+Dakota|Minnesota,Dakota,Minnesota,7
+Dallas|Texas,Dallas,Texas,16
+Dane|Wisconsin,Dane,Wisconsin,5
+Danville|Virginia,Danville,Virginia,1
+Dauphin|Pennsylvania,Dauphin,Pennsylvania,2
+Davidson|Tennessee,Davidson,Tennessee,5
+Daviess|Kentucky,Daviess,Kentucky,1
+Davis|Utah,Davis,Utah,2
+Dekalb|Illinois,Dekalb,Illinois,1
+Delaware|Indiana,Delaware,Indiana,1
+Delaware|Ohio,Delaware,Ohio,2
+Delaware|Pennsylvania,Delaware,Pennsylvania,3
+Denton|Texas,Denton,Texas,5
+Denver|Colorado,Denver,Colorado,2
+Des Moines|Iowa,Des Moines,Iowa,1
+Deschutes|Oregon,Deschutes,Oregon,1
+Desoto|Mississippi,Desoto,Mississippi,2
+District Of Columbia|District Of Columbia,District Of Columbia,District Of Columbia,1
+Dona Ana|New Mexico,Dona Ana,New Mexico,1
+Door|Wisconsin,Door,Wisconsin,1
+Dougherty|Georgia,Dougherty,Georgia,1
+Douglas|Colorado,Douglas,Colorado,5
+Douglas|Kansas,Douglas,Kansas,1
+Douglas|Minnesota,Douglas,Minnesota,1
+Douglas|Nebraska,Douglas,Nebraska,6
+Douglas|Nevada,Douglas,Nevada,1
+Dubuque|Iowa,Dubuque,Iowa,1
+Dupage|Illinois,Dupage,Illinois,9
+Durham|North Carolina,Durham,North Carolina,2
+Dutchess|New York,Dutchess,New York,1
+Duval|Florida,Duval,Florida,8
+East Baton Rouge|Louisiana,East Baton Rouge,Louisiana,2
+Eaton|Michigan,Eaton,Michigan,1
+Eau Claire|Wisconsin,Eau Claire,Wisconsin,1
+Ector|Texas,Ector,Texas,1
+El Dorado|California,El Dorado,California,1
+El Paso|Colorado,El Paso,Colorado,4
+El Paso|Texas,El Paso,Texas,4
+Elkhart|Indiana,Elkhart,Indiana,1
+Ellis|Texas,Ellis,Texas,1
+Erie|New York,Erie,New York,6
+Erie|Ohio,Erie,Ohio,1
+Erie|Pennsylvania,Erie,Pennsylvania,1
+Escambia|Florida,Escambia,Florida,3
+Essex|Massachusetts,Essex,Massachusetts,5
+Essex|New Jersey,Essex,New Jersey,1
+Fairfax|Virginia,Fairfax,Virginia,10
+Fairfield|Connecticut,Fairfield,Connecticut,4
+Fairfield|Ohio,Fairfield,Ohio,2
+Faulkner|Arkansas,Faulkner,Arkansas,1
+Fayette|Kentucky,Fayette,Kentucky,2
+Fayette|Pennsylvania,Fayette,Pennsylvania,1
+Finney|Kansas,Finney,Kansas,1
+Flagler|Florida,Flagler,Florida,1
+Flathead|Montana,Flathead,Montana,1
+Florence|South Carolina,Florence,South Carolina,1
+Floyd|Indiana,Floyd,Indiana,1
+Fond Du Lac|Wisconsin,Fond Du Lac,Wisconsin,1
+Forsyth|North Carolina,Forsyth,North Carolina,3
+Fort Bend|Texas,Fort Bend,Texas,5
+Franklin|Missouri,Franklin,Missouri,1
+Franklin|Ohio,Franklin,Ohio,9
+Franklin|Pennsylvania,Franklin,Pennsylvania,1
+Fredericksburg|Virginia,Fredericksburg,Virginia,1
+Frederick|Maryland,Frederick,Maryland,1
+Frederick|Virginia,Frederick,Virginia,1
+Fresno|California,Fresno,California,7
+Gallatin|Montana,Gallatin,Montana,1
+Galveston|Texas,Galveston,Texas,3
+Garfield|Colorado,Garfield,Colorado,1
+Gaston|North Carolina,Gaston,North Carolina,1
+Geauga|Ohio,Geauga,Ohio,1
+Genesee|Michigan,Genesee,Michigan,2
+Genesee|New York,Genesee,New York,1
+Gloucester|New Jersey,Gloucester,New Jersey,3
+Glynn|Georgia,Glynn,Georgia,1
+Goodhue|Minnesota,Goodhue,Minnesota,1
+Grand Forks|North Dakota,Grand Forks,North Dakota,1
+Grand Traverse|Michigan,Grand Traverse,Michigan,1
+Grayson|Texas,Grayson,Texas,1
+Greene|Missouri,Greene,Missouri,1
+Greene|Ohio,Greene,Ohio,2
+Greenville|South Carolina,Greenville,South Carolina,3
+Gregg|Texas,Gregg,Texas,1
+Guilford|North Carolina,Guilford,North Carolina,4
+Hall|Georgia,Hall,Georgia,2
+Hamilton|Indiana,Hamilton,Indiana,3
+Hamilton|Ohio,Hamilton,Ohio,7
+Hamilton|Tennessee,Hamilton,Tennessee,2
+Hampden|Massachusetts,Hampden,Massachusetts,1
+Hampshire|Massachusetts,Hampshire,Massachusetts,1
+Hampton|Virginia,Hampton,Virginia,1
+Hanover|Virginia,Hanover,Virginia,1
+Hardin|Kentucky,Hardin,Kentucky,1
+Harford|Maryland,Harford,Maryland,3
+Harrisonburg|Virginia,Harrisonburg,Virginia,1
+Harrison|Mississippi,Harrison,Mississippi,1
+Harrison|West Virginia,Harrison,West Virginia,1
+Harris|Texas,Harris,Texas,24
+Hartford|Connecticut,Hartford,Connecticut,6
+Hawaii|Hawaii,Hawaii,Hawaii,2
+Hays|Texas,Hays,Texas,2
+Hendricks|Indiana,Hendricks,Indiana,2
+Hennepin|Minnesota,Hennepin,Minnesota,21
+Henrico|Virginia,Henrico,Virginia,5
+Hernando|Florida,Hernando,Florida,2
+Hidalgo|Texas,Hidalgo,Texas,4
+Hillsborough|Florida,Hillsborough,Florida,8
+Hillsborough|New Hampshire,Hillsborough,New Hampshire,3
+Hinds|Mississippi,Hinds,Mississippi,1
+Honolulu|Hawaii,Honolulu,Hawaii,5
+Horry|South Carolina,Horry,South Carolina,2
+Houston|Alabama,Houston,Alabama,1
+Houston|Georgia,Houston,Georgia,1
+Howard|Indiana,Howard,Indiana,1
+Howard|Maryland,Howard,Maryland,2
+Hudson|New Jersey,Hudson,New Jersey,2
+Humboldt|California,Humboldt,California,1
+Imperial|California,Imperial,California,1
+Indian River|Florida,Indian River,Florida,1
+Ingham|Michigan,Ingham,Michigan,2
+Iredell|North Carolina,Iredell,North Carolina,1
+Isabella|Michigan,Isabella,Michigan,1
+Isanti|Minnesota,Isanti,Minnesota,1
+Itasca|Minnesota,Itasca,Minnesota,1
+Jackson|Michigan,Jackson,Michigan,1
+Jackson|Missouri,Jackson,Missouri,5
+Jackson|Oregon,Jackson,Oregon,1
+James|Virginia,James,Virginia,1
+Jasper|Missouri,Jasper,Missouri,1
+Jefferson|Colorado,Jefferson,Colorado,7
+Jefferson|Kentucky,Jefferson,Kentucky,6
+Jefferson|Louisiana,Jefferson,Louisiana,3
+Jefferson|Missouri,Jefferson,Missouri,1
+Jefferson|New York,Jefferson,New York,1
+Jefferson|Texas,Jefferson,Texas,2
+Johnson|Indiana,Johnson,Indiana,1
+Johnson|Iowa,Johnson,Iowa,1
+Johnson|Kansas,Johnson,Kansas,7
+Johnson|Texas,Johnson,Texas,1
+Kalamazoo|Michigan,Kalamazoo,Michigan,2
+Kanawha|West Virginia,Kanawha,West Virginia,1
+Kandiyohi|Minnesota,Kandiyohi,Minnesota,1
+Kane|Illinois,Kane,Illinois,5
+Kankakee|Illinois,Kankakee,Illinois,1
+Kendall|Illinois,Kendall,Illinois,2
+Kennebec|Maine,Kennebec,Maine,1
+Kenosha|Wisconsin,Kenosha,Wisconsin,1
+Kent|Delaware,Kent,Delaware,1
+Kent|Michigan,Kent,Michigan,5
+Kent|Rhode Island,Kent,Rhode Island,2
+Kern|California,Kern,California,4
+Kings|California,Kings,California,1
+Kings|New York,Kings,New York,5
+King|Washington,King,Washington,11
+Kitsap|Washington,Kitsap,Washington,1
+Knox|Illinois,Knox,Illinois,1
+Knox|Tennessee,Knox,Tennessee,5
+Kootenai|Idaho,Kootenai,Idaho,1
+La Crosse|Wisconsin,La Crosse,Wisconsin,1
+La Salle|Illinois,La Salle,Illinois,1
+Lackawanna|Pennsylvania,Lackawanna,Pennsylvania,1
+Lafayette|Louisiana,Lafayette,Louisiana,2
+Lake|Florida,Lake,Florida,3
+Lake|Illinois,Lake,Illinois,8
+Lake|Indiana,Lake,Indiana,4
+Lake|Ohio,Lake,Ohio,2
+Lamar|Mississippi,Lamar,Mississippi,1
+Lancaster|Nebraska,Lancaster,Nebraska,3
+Lancaster|Pennsylvania,Lancaster,Pennsylvania,3
+Lane|Oregon,Lane,Oregon,2
+Laramie|Wyoming,Laramie,Wyoming,1
+Larimer|Colorado,Larimer,Colorado,3
+Lauderdale|Alabama,Lauderdale,Alabama,1
+Lee|Florida,Lee,Florida,7
+Lehigh|Pennsylvania,Lehigh,Pennsylvania,3
+Leon|Florida,Leon,Florida,2
+Lewis And Clark|Montana,Lewis And Clark,Montana,1
+Lexington|South Carolina,Lexington,South Carolina,2
+Licking|Ohio,Licking,Ohio,1
+Linn|Iowa,Linn,Iowa,2
+Linn|Oregon,Linn,Oregon,1
+Litchfield|Connecticut,Litchfield,Connecticut,1
+Livingston|Michigan,Livingston,Michigan,2
+Lorain|Ohio,Lorain,Ohio,3
+Los Angeles|California,Los Angeles,California,69
+Loudoun|Virginia,Loudoun,Virginia,3
+Lowndes|Georgia,Lowndes,Georgia,1
+Lubbock|Texas,Lubbock,Texas,2
+Lucas|Ohio,Lucas,Ohio,3
+Luzerne|Pennsylvania,Luzerne,Pennsylvania,1
+Lycoming|Pennsylvania,Lycoming,Pennsylvania,1
+Lynchburg|Virginia,Lynchburg,Virginia,1
+Macomb|Michigan,Macomb,Michigan,8
+Macon|Illinois,Macon,Illinois,1
+Madison|Alabama,Madison,Alabama,3
+Madison|Illinois,Madison,Illinois,2
+Madison|Nebraska,Madison,Nebraska,1
+Madison|Tennessee,Madison,Tennessee,1
+Mahoning|Ohio,Mahoning,Ohio,1
+Manatee|Florida,Manatee,Florida,1
+Marathon|Wisconsin,Marathon,Wisconsin,1
+Maricopa|Arizona,Maricopa,Arizona,34
+Marin|California,Marin,California,3
+Marion|Florida,Marion,Florida,1
+Marion|Indiana,Marion,Indiana,5
+Marion|Oregon,Marion,Oregon,2
+Marquette|Michigan,Marquette,Michigan,1
+Martin|Florida,Martin,Florida,1
+Matanuska-Susitna|Alaska,Matanuska-Susitna,Alaska,1
+Maury|Tennessee,Maury,Tennessee,1
+Mchenry|Illinois,Mchenry,Illinois,2
+Mclean|Illinois,Mclean,Illinois,1
+Mclennan|Texas,Mclennan,Texas,1
+Mcleod|Minnesota,Mcleod,Minnesota,1
+Mecklenburg|North Carolina,Mecklenburg,North Carolina,10
+Medina|Ohio,Medina,Ohio,2
+Merced|California,Merced,California,3
+Mercer|New Jersey,Mercer,New Jersey,2
+Merrimack|New Hampshire,Merrimack,New Hampshire,2
+Mesa|Colorado,Mesa,Colorado,1
+Miami-Dade|Florida,Miami-Dade,Florida,11
+Middlesex|Massachusetts,Middlesex,Massachusetts,11
+Middlesex|New Jersey,Middlesex,New Jersey,5
+Midland|Michigan,Midland,Michigan,1
+Midland|Texas,Midland,Texas,1
+Miller|Missouri,Miller,Missouri,1
+Milwaukee|Wisconsin,Milwaukee,Wisconsin,7
+Minnehaha|South Dakota,Minnehaha,South Dakota,2
+Missoula|Montana,Missoula,Montana,1
+Mobile|Alabama,Mobile,Alabama,2
+Mohave|Arizona,Mohave,Arizona,1
+Monmouth|New Jersey,Monmouth,New Jersey,4
+Monongalia|West Virginia,Monongalia,West Virginia,1
+Monroe|Indiana,Monroe,Indiana,1
+Monroe|New York,Monroe,New York,6
+Monroe|Pennsylvania,Monroe,Pennsylvania,1
+Monterey|California,Monterey,California,3
+Montgomery|Maryland,Montgomery,Maryland,6
+Montgomery|New York,Montgomery,New York,1
+Montgomery|Ohio,Montgomery,Ohio,2
+Montgomery|Pennsylvania,Montgomery,Pennsylvania,7
+Montgomery|Tennessee,Montgomery,Tennessee,1
+Montgomery|Texas,Montgomery,Texas,3
+Montgomery|Virginia,Montgomery,Virginia,1
+Montrose|Colorado,Montrose,Colorado,1
+Morgan|Alabama,Morgan,Alabama,1
+Morris|New Jersey,Morris,New Jersey,5
+Multnomah|Oregon,Multnomah,Oregon,5
+Muskegon|Michigan,Muskegon,Michigan,1
+Napa|California,Napa,California,2
+Nash|North Carolina,Nash,North Carolina,1
+Nassau|Florida,Nassau,Florida,1
+Nassau|New York,Nassau,New York,7
+Natrona|Wyoming,Natrona,Wyoming,1
+New Castle|Delaware,New Castle,Delaware,2
+New Hanover|North Carolina,New Hanover,North Carolina,1
+New Haven|Connecticut,New Haven,Connecticut,6
+New London|Connecticut,New London,Connecticut,2
+New York|New York,New York,New York,2
+Newport News|Virginia,Newport News,Virginia,1
+Niagara|New York,Niagara,New York,1
+Norfolk|Massachusetts,Norfolk,Massachusetts,5
+Norfolk|Virginia,Norfolk,Virginia,1
+Northampton|Pennsylvania,Northampton,Pennsylvania,1
+Nueces|Texas,Nueces,Texas,1
+Oakland|Michigan,Oakland,Michigan,9
+Ocean|New Jersey,Ocean,New Jersey,3
+Ohio|West Virginia,Ohio,West Virginia,1
+Okaloosa|Florida,Okaloosa,Florida,2
+Oklahoma|Oklahoma,Oklahoma,Oklahoma,5
+Olmsted|Minnesota,Olmsted,Minnesota,2
+Oneida|New York,Oneida,New York,1
+Onondaga|New York,Onondaga,New York,4
+Onslow|North Carolina,Onslow,North Carolina,1
+Ontario|New York,Ontario,New York,1
+Orange|California,Orange,California,32
+Orange|Florida,Orange,Florida,8
+Orange|New York,Orange,New York,3
+Orange|North Carolina,Orange,North Carolina,1
+Osceola|Florida,Osceola,Florida,2
+Ottawa|Michigan,Ottawa,Michigan,1
+Ouachita|Louisiana,Ouachita,Louisiana,1
+Outagamie|Wisconsin,Outagamie,Wisconsin,2
+Ozaukee|Wisconsin,Ozaukee,Wisconsin,1
+Pa - Pennsylvania|Pennsylvania,Pa - Pennsylvania,Pennsylvania,1
+Palm Beach|Florida,Palm Beach,Florida,9
+Parker|Texas,Parker,Texas,1
+Pasco|Florida,Pasco,Florida,3
+Passaic|New Jersey,Passaic,New Jersey,1
+Pennington|South Dakota,Pennington,South Dakota,1
+Penobscot|Maine,Penobscot,Maine,1
+Peoria|Illinois,Peoria,Illinois,1
+Philadelphia|Pennsylvania,Philadelphia,Pennsylvania,9
+Pierce|Washington,Pierce,Washington,6
+Pima|Arizona,Pima,Arizona,8
+Pinellas|Florida,Pinellas,Florida,6
+Pitt|North Carolina,Pitt,North Carolina,1
+Placer|California,Placer,California,5
+Platte|Missouri,Platte,Missouri,1
+Plymouth|Massachusetts,Plymouth,Massachusetts,4
+Polk|Florida,Polk,Florida,3
+Polk|Iowa,Polk,Iowa,7
+Portage|Ohio,Portage,Ohio,1
+Portage|Wisconsin,Portage,Wisconsin,1
+Porter|Indiana,Porter,Indiana,1
+Pottawattamie|Iowa,Pottawattamie,Iowa,1
+Potter|Texas,Potter,Texas,1
+Prince George'S|Maryland,Prince George'S,Maryland,8
+Prince William|Virginia,Prince William,Virginia,4
+Providence|Rhode Island,Providence,Rhode Island,2
+Pueblo|Colorado,Pueblo,Colorado,1
+Pulaski|Arkansas,Pulaski,Arkansas,3
+Queens|New York,Queens,New York,4
+Racine|Wisconsin,Racine,Wisconsin,1
+Ramsey|Minnesota,Ramsey,Minnesota,7
+Rankin|Mississippi,Rankin,Mississippi,1
+Rapides|Louisiana,Rapides,Louisiana,1
+Rensselaer|New York,Rensselaer,New York,1
+Rice|Minnesota,Rice,Minnesota,1
+Richland|Ohio,Richland,Ohio,1
+Richland|South Carolina,Richland,South Carolina,2
+Richmond|Georgia,Richmond,Georgia,1
+Richmond|New York,Richmond,New York,2
+Richmond|Virginia,Richmond,Virginia,1
+Riley|Kansas,Riley,Kansas,1
+Riverside|California,Riverside,California,16
+Roanoke|Virginia,Roanoke,Virginia,1
+Rock Island|Illinois,Rock Island,Illinois,1
+Rockingham|New Hampshire,Rockingham,New Hampshire,2
+Rockland|New York,Rockland,New York,2
+Rockwall|Texas,Rockwall,Texas,1
+Rock|Wisconsin,Rock,Wisconsin,1
+Rutherford|Tennessee,Rutherford,Tennessee,2
+Sacramento|California,Sacramento,California,10
+Sagadahoc|Maine,Sagadahoc,Maine,1
+Saginaw|Michigan,Saginaw,Michigan,1
+Saline|Arkansas,Saline,Arkansas,1
+Saline|Kansas,Saline,Kansas,1
+Salt Lake|Utah,Salt Lake,Utah,7
+San Benito|California,San Benito,California,1
+San Bernardino|California,San Bernardino,California,14
+San Diego|California,San Diego,California,23
+San Francisco|California,San Francisco,California,5
+San Joaquin|California,San Joaquin,California,6
+San Juan|New Mexico,San Juan,New Mexico,1
+San Luis Obispo|California,San Luis Obispo,California,2
+San Mateo|California,San Mateo,California,6
+Sandoval|New Mexico,Sandoval,New Mexico,1
+Sangamon|Illinois,Sangamon,Illinois,1
+Santa Barbara|California,Santa Barbara,California,1
+Santa Clara|California,Santa Clara,California,18
+Santa Cruz|California,Santa Cruz,California,2
+Santa Fe|New Mexico,Santa Fe,New Mexico,1
+Santa Rosa|Florida,Santa Rosa,Florida,1
+Sarasota|Florida,Sarasota,Florida,4
+Saratoga|New York,Saratoga,New York,2
+Sarpy|Nebraska,Sarpy,Nebraska,2
+Schenectady|New York,Schenectady,New York,2
+Scotts Bluff|Nebraska,Scotts Bluff,Nebraska,1
+Scott|Iowa,Scott,Iowa,1
+Scott|Minnesota,Scott,Minnesota,2
+Sebastian|Arkansas,Sebastian,Arkansas,1
+Sedgwick|Kansas,Sedgwick,Kansas,4
+Seminole|Florida,Seminole,Florida,5
+Shasta|California,Shasta,California,1
+Shawnee|Kansas,Shawnee,Kansas,1
+Sheboygan|Wisconsin,Sheboygan,Wisconsin,1
+Shelby|Tennessee,Shelby,Tennessee,6
+Skagit|Washington,Skagit,Washington,1
+Smith|Texas,Smith,Texas,1
+Snohomish|Washington,Snohomish,Washington,4
+Snyder|Pennsylvania,Snyder,Pennsylvania,1
+Solano|California,Solano,California,3
+Somerset|New Jersey,Somerset,New Jersey,2
+Sonoma|California,Sonoma,California,4
+Spartanburg|South Carolina,Spartanburg,South Carolina,1
+Spokane|Washington,Spokane,Washington,3
+Spotsylvania|Virginia,Spotsylvania,Virginia,1
+St. Charles|Missouri,St. Charles,Missouri,5
+St. Clair|Illinois,St. Clair,Illinois,3
+St. Clair|Michigan,St. Clair,Michigan,1
+St. Croix|Wisconsin,St. Croix,Wisconsin,1
+St. Johns|Florida,St. Johns,Florida,1
+St. Joseph|Indiana,St. Joseph,Indiana,2
+St. Louis|Minnesota,St. Louis,Minnesota,2
+St. Louis|Missouri,St. Louis,Missouri,10
+St. Lucie|Florida,St. Lucie,Florida,1
+St. Mary'S|Maryland,St. Mary'S,Maryland,1
+St. Tammany|Louisiana,St. Tammany,Louisiana,1
+Stafford|Virginia,Stafford,Virginia,2
+Stanislaus|California,Stanislaus,California,4
+Stark|Ohio,Stark,Ohio,2
+Stearns|Minnesota,Stearns,Minnesota,1
+Steele|Minnesota,Steele,Minnesota,1
+Story|Iowa,Story,Iowa,1
+Strafford|New Hampshire,Strafford,New Hampshire,1
+Suffolk|Massachusetts,Suffolk,Massachusetts,4
+Suffolk|New York,Suffolk,New York,11
+Sullivan|Tennessee,Sullivan,Tennessee,1
+Summit|Colorado,Summit,Colorado,1
+Summit|Ohio,Summit,Ohio,5
+Sumner|Tennessee,Sumner,Tennessee,1
+Sutter|California,Sutter,California,1
+Talbot|Maryland,Talbot,Maryland,1
+Taney|Missouri,Taney,Missouri,1
+Tangipahoa|Louisiana,Tangipahoa,Louisiana,1
+Tarrant|Texas,Tarrant,Texas,14
+Taylor|Texas,Taylor,Texas,1
+Tazewell|Illinois,Tazewell,Illinois,1
+Terrebonne|Louisiana,Terrebonne,Louisiana,1
+Thurston|Washington,Thurston,Washington,2
+Tippecanoe|Indiana,Tippecanoe,Indiana,1
+Tom Green|Texas,Tom Green,Texas,1
+Tompkins|New York,Tompkins,New York,1
+Travis|Texas,Travis,Texas,11
+Trumbull|Ohio,Trumbull,Ohio,1
+Tulare|California,Tulare,California,4
+Tulsa|Oklahoma,Tulsa,Oklahoma,6
+Tuscaloosa|Alabama,Tuscaloosa,Alabama,1
+Twin Falls|Idaho,Twin Falls,Idaho,1
+Ulster|New York,Ulster,New York,1
+Union|New Jersey,Union,New Jersey,4
+Union|North Carolina,Union,North Carolina,2
+Utah|Utah,Utah,Utah,2
+Vanderburgh|Indiana,Vanderburgh,Indiana,2
+Ventura|California,Ventura,California,8
+Victoria|Texas,Victoria,Texas,1
+Virginia Beach|Virginia,Virginia Beach,Virginia,4
+Volusia|Florida,Volusia,Florida,3
+Wake|North Carolina,Wake,North Carolina,14
+Walker|Texas,Walker,Texas,1
+Walworth|Wisconsin,Walworth,Wisconsin,1
+Ward|North Dakota,Ward,North Dakota,1
+Warren|Kentucky,Warren,Kentucky,1
+Warren|New Jersey,Warren,New Jersey,1
+Warren|New York,Warren,New York,1
+Warren|Ohio,Warren,Ohio,2
+Warren|Virginia,Warren,Virginia,1
+Washington|Arkansas,Washington,Arkansas,1
+Washington|Maryland,Washington,Maryland,1
+Washington|Minnesota,Washington,Minnesota,6
+Washington|Oregon,Washington,Oregon,6
+Washington|Pennsylvania,Washington,Pennsylvania,1
+Washington|Tennessee,Washington,Tennessee,1
+Washington|Utah,Washington,Utah,1
+Washington|Virginia,Washington,Virginia,1
+Washoe|Nevada,Washoe,Nevada,2
+Washtenaw|Michigan,Washtenaw,Michigan,2
+Waukesha|Wisconsin,Waukesha,Wisconsin,6
+Waynesboro|Virginia,Waynesboro,Virginia,1
+Wayne|Michigan,Wayne,Michigan,10
+Wayne|North Carolina,Wayne,North Carolina,1
+Webb|Texas,Webb,Texas,2
+Weber|Utah,Weber,Utah,1
+Webster|Iowa,Webster,Iowa,1
+Weld|Colorado,Weld,Colorado,1
+Westchester|New York,Westchester,New York,3
+Westmoreland|Pennsylvania,Westmoreland,Pennsylvania,2
+Whatcom|Washington,Whatcom,Washington,1
+Wichita|Texas,Wichita,Texas,1
+Wicomico|Maryland,Wicomico,Maryland,1
+Williamson|Illinois,Williamson,Illinois,1
+Williamson|Tennessee,Williamson,Tennessee,2
+Williamson|Texas,Williamson,Texas,3
+Will|Illinois,Will,Illinois,6
+Wilson|North Carolina,Wilson,North Carolina,1
+Wilson|Tennessee,Wilson,Tennessee,1
+Winchester|Virginia,Winchester,Virginia,1
+Windham|Connecticut,Windham,Connecticut,1
+Winnebago|Illinois,Winnebago,Illinois,2
+Winnebago|Wisconsin,Winnebago,Wisconsin,1
+Winona|Minnesota,Winona,Minnesota,1
+Woodbury|Iowa,Woodbury,Iowa,1
+Wood|Ohio,Wood,Ohio,1
+Wood|Wisconsin,Wood,Wisconsin,1
+Worcester|Massachusetts,Worcester,Massachusetts,5
+Wright|Minnesota,Wright,Minnesota,3
+Wyandotte|Kansas,Wyandotte,Kansas,1
+Yakima|Washington,Yakima,Washington,1
+Yavapai|Arizona,Yavapai,Arizona,1
+Yellowstone|Montana,Yellowstone,Montana,2
+Yolo|California,Yolo,California,3
+York|Maine,York,Maine,1
+York|Pennsylvania,York,Pennsylvania,3
+York|South Carolina,York,South Carolina,1
+York|Virginia,York,Virginia,1
+Yuma|Arizona,Yuma,Arizona,1

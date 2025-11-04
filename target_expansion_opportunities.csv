@@ -1,26 +1,61 @@
-County,State,Population_Total,Median_Income,Store_Count
-Fulton,Georgia,1068507,457791,0
-Capitol Planning Region,Connecticut,969029,389086,0
-Gwinnett,Georgia,966972,322852,0
-Cobb,Georgia,769152,293410,0
-DeKalb,Georgia,762105,284681,0
-Jefferson,Alabama,669744,268911,0
-Western Connecticut Planning Region,Connecticut,621232,232279,0
-South Central Connecticut Planning Region,Connecticut,566803,227739,0
-Naugatuck Valley Planning Region,Connecticut,452303,178340,0
-Pinal,Arizona,449219,157193,0
-Orleans Parish,Louisiana,376035,155060,0
-San Juan Municipio,Puerto Rico,338661,147795,0
-Greater Bridgeport Planning Region,Connecticut,326296,118335,0
-Clayton,Georgia,298771,105626,0
-St. Louis city,Missouri,293109,144450,0
-Anchorage Municipality,Alaska,289069,107868,0
-Southeastern Connecticut Planning Region,Connecticut,279025,114577,0
-Cherokee,Georgia,274539,99132,0
-Forsyth,Georgia,260062,86688,0
-Chesapeake city,Virginia,251153,92361,0
-Sussex,Delaware,247799,103213,0
-Henry,Georgia,245417,84498,0
-Barnstable,Massachusetts,230073,102981,0
-Montgomery,Alabama,227197,90785,0
-Shelby,Alabama,226955,85414,0
+County_State_Key,County,State,Population_2023,Median_HH_Income_2023,Store_Count
+Fulton|Georgia,Fulton,Georgia,1068507.0,91490.0,0
+Capitol Planning Region|Connecticut,Capitol Planning Region,Connecticut,969029.0,91541.0,0
+Gwinnett|Georgia,Gwinnett,Georgia,966972.0,84823.0,0
+Cobb|Georgia,Cobb,Georgia,769152.0,98712.0,0
+Dekalb|Georgia,Dekalb,Georgia,762105.0,77683.0,0
+Western Connecticut Planning Region|Connecticut,Western Connecticut Planning Region,Connecticut,621232.0,124553.0,0
+South Central Connecticut Planning Region|Connecticut,South Central Connecticut Planning Region,Connecticut,566803.0,86266.0,0
+Naugatuck Valley Planning Region|Connecticut,Naugatuck Valley Planning Region,Connecticut,452303.0,86365.0,0
+Pinal|Arizona,Pinal,Arizona,449219.0,77588.0,0
+Greater Bridgeport Planning Region|Connecticut,Greater Bridgeport Planning Region,Connecticut,326296.0,87135.0,0
+Southeastern Connecticut Planning Region|Connecticut,Southeastern Connecticut Planning Region,Connecticut,279025.0,84185.0,0
+Cherokee|Georgia,Cherokee,Georgia,274539.0,105442.0,0
+Forsyth|Georgia,Forsyth,Georgia,260062.0,138000.0,0
+Sussex|Delaware,Sussex,Delaware,247799.0,78162.0,0
+Henry|Georgia,Henry,Georgia,245417.0,81612.0,0
+Barnstable|Massachusetts,Barnstable,Massachusetts,230073.0,94452.0,0
+Shelby|Alabama,Shelby,Alabama,226955.0,93543.0,0
+Johnston|North Carolina,Johnston,North Carolina,226623.0,79838.0,0
+Guadalupe|Texas,Guadalupe,Texas,178368.0,93776.0,0
+Lower Connecticut River Valley Planning Region|Connecticut,Lower Connecticut River Valley Planning Region,Connecticut,174983.0,101117.0,0
+Paulding|Georgia,Paulding,Georgia,174292.0,94557.0,0
+Kenton|Kentucky,Kenton,Kentucky,169817.0,79421.0,0
+Chittenden|Vermont,Chittenden,Vermont,168831.0,94310.0,0
+Maui|Hawaii,Maui,Hawaii,164632.0,95076.0,0
+Dorchester|South Carolina,Dorchester,South Carolina,164322.0,76896.0,0
+Kaufman|Texas,Kaufman,Texas,160718.0,88606.0,0
+Madera|California,Madera,California,158790.0,75496.0,0
+Monroe|Michigan,Monroe,Michigan,155001.0,75272.0,0
+Coweta|Georgia,Coweta,Georgia,150071.0,94142.0,0
+Douglas|Georgia,Douglas,Georgia,146141.0,80764.0,0
+Brunswick|North Carolina,Brunswick,North Carolina,145889.0,74034.0,0
+Livingston|Louisiana,Livingston,Louisiana,145583.0,78617.0,0
+Sussex|New Jersey,Sussex,New Jersey,145117.0,114316.0,0
+Randall|Texas,Randall,Texas,143791.0,80905.0,0
+Lebanon|Pennsylvania,Lebanon,Pennsylvania,143592.0,76350.0,0
+Schuylkill|Pennsylvania,Schuylkill,Pennsylvania,143259.0,66901.0,0
+Sumter|Florida,Sumter,Florida,137536.0,73297.0,0
+Washington|Wisconsin,Washington,Wisconsin,137320.0,95851.0,0
+Cache|Utah,Cache,Utah,137031.0,78292.0,0
+Harnett|North Carolina,Harnett,North Carolina,136503.0,69012.0,0
+Washington|Rhode Island,Washington,Rhode Island,130073.0,102478.0,0
+Hunterdon|New Jersey,Hunterdon,New Jersey,129448.0,139453.0,0
+Ascension|Louisiana,Ascension,Louisiana,128593.0,92266.0,0
+Carroll|Georgia,Carroll,Georgia,122187.0,72327.0,0
+Allegan|Michigan,Allegan,Michigan,120913.0,80255.0,0
+Fayette|Georgia,Fayette,Georgia,120689.0,108986.0,0
+Oswego|New York,Oswego,New York,117945.0,68461.0,0
+Henderson|North Carolina,Henderson,North Carolina,117387.0,67623.0,0
+Wayne|Ohio,Wayne,Ohio,116618.0,71769.0,0
+Newton|Georgia,Newton,Georgia,115530.0,73732.0,0
+Northwest Hills Planning Region|Connecticut,Northwest Hills Planning Region,Connecticut,112848.0,91035.0,0
+Androscoggin|Maine,Androscoggin,Maine,112323.0,67298.0,0
+Laporte|Indiana,Laporte,Indiana,112141.0,70452.0,0
+Bartow|Georgia,Bartow,Georgia,111153.0,79431.0,0
+Madison|Mississippi,Madison,Mississippi,110303.0,78794.0,0
+Miami|Ohio,Miami,Ohio,109549.0,74175.0,0
+Lasalle|Illinois,Lasalle,Illinois,109049.0,72281.0,0
+Yamhill|Oregon,Yamhill,Oregon,108122.0,87084.0,0
+Limestone|Alabama,Limestone,Alabama,107577.0,83534.0,0
+Adams|Pennsylvania,Adams,Pennsylvania,105183.0,81071.0,0
